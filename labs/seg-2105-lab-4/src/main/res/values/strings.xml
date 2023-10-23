@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SportManagement</string>
+    <string name="app_title">Soccer Team Manager</string>
+
+    <string name="name_hint">(Please enter a team name)</string>
+    <string name="name_label">Team Name</string>
+
+    <string name="address_hint">(Please enter a ZIP code)</string>
+    <string name="address_label">Team Address</string>
+
+    <string name="button_text">OPEN IN GOOGLE MAPS</string>
+    <string name="new_Avatar_Title">Select a new avatar</string>
+    <string name="new_Avatar_button">Load from phone</string>
+</resources>
